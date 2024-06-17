@@ -1,0 +1,10 @@
+slu-samples-0-spk2.wav|넌 누구야?
+slu-samples-1-spk6.wav|자기소개 해 봐
+slu-samples-2-spk10.wav|소개해 봐
+slu-samples-3-spk14.wav|너 누구야
+slu-samples-4-spk18.wav|당신은 누구십니까
+slu-samples-5-spk22.wav|누구세요?
+slu-samples-6-spk26.wav|누군지 알려 줘
+slu-samples-7-spk30.wav|넌 누구니
+slu-samples-8-spk34.wav|너 소개해 봐
+slu-samples-9-spk38.wav|너 뭐야
